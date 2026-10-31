@@ -1,0 +1,6 @@
+{
+  "name": "N.A Fresh Fruits & Coconuts",
+  "description": "Premium coconut water, fresh juices, and seasonal fruits business website with doorstep delivery in Jaora, real-time live traffic analytics, secure checkout, and comprehensive admin suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
